@@ -6,5 +6,6 @@ body {
 }
 p {
   color: white;
-  font-size: 10rem;
+  font-size: 6rem;
+  height: 30px;
 }
